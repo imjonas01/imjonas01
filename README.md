@@ -1,4 +1,4 @@
-<img 
+<img align="center" width="800px"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBkeXppbG9yOWFzOXM0bHdwaHZsaGtzZnRndDQwbzRsNmZ5emxndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.webp" alt="banner gif" />
 <h1 align="center">Hi 👋, I'm Jonas Talapian</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
