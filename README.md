@@ -16,12 +16,11 @@
     src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" />
 </p>
 
-- 🔭 I’m currently working on **portfolio project** - 🌱 I’m currently learning
-**MERN stack** - 👨‍💻 All of my projects are available at
-[https://jonas-talapian-portfolio.vercel.app/](https://jonas-talapian-portfolio.vercel.app/)
-- 📫 How to reach me **jonastalapian@gmail.com** -
-- ⚡ Fun fact **im an
-Artist🎨🧑‍🎨**
+- 🔭 I’m currently working on **portfolio project**
+- 🌱 I’m currently learning **MERN stack**
+- 👨‍💻 All of my projects are available at [https://jonas-talapian-portfolio.vercel.app/](https://jonas-talapian-portfolio.vercel.app/)
+- 📫 How to reach me **jonastalapian@gmail.com** 
+- ⚡ Fun fact **im an Artist🎨🧑‍🎨**
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
