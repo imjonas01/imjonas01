@@ -19,7 +19,8 @@
 - 🔭 I’m currently working on **portfolio project** - 🌱 I’m currently learning
 **MERN stack** - 👨‍💻 All of my projects are available at
 [https://jonas-talapian-portfolio.vercel.app/](https://jonas-talapian-portfolio.vercel.app/)
-- 📫 How to reach me **jonastalapian@gmail.com** - ⚡ Fun fact **im an
+- 📫 How to reach me **jonastalapian@gmail.com** -
+- ⚡ Fun fact **im an
 Artist🎨🧑‍🎨**
 
 <h1 align="left">Connect with me:</h1>
