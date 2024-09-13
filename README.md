@@ -26,7 +26,7 @@ Artist🎨🧑‍🎨**
 <p align="left">
   <a href="https://linkedin.com/in/jonas talapian" target="blank"
     ><img
-      
+      align="center"
       src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
       alt="jonas talapian"
       height="60"
@@ -57,7 +57,9 @@ Artist🎨🧑‍🎨**
       src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjYxOTIzNTcsIm5iZiI6MTcyNjE5MjA1NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTEzVDAxNDczN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAzNjYwYWYxNWZlODBhM2Q3ZjZiYjIzZTEwZGZhNTI5NmQyZWFkMzQ2Y2Y5ZTQzZWIwOGQ5ZGQ4MzQ3NjljZmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hSiz5c4P5EdHnx8GfiyHGeoVS2FjGpWsbXzL94_ZFS4"
       alt="css3"
       width="70"
-      height="70" />
+      height="70"
+       align="center"
+      />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
